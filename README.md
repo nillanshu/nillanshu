@@ -20,10 +20,9 @@
   <img src="https://img.shields.io/badge/Backend-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=339933">
   <img src="https://img.shields.io/badge/Backend-ExpressJs-informational?style=flat&logo=express&logoColor=white&color=000000">
   <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1">
-  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248">
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791">
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032">
-  <img src="https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=181717">
   <img src="https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=C21325">
   <img src="https://img.shields.io/badge/Testing-React--testing--library-informational?style=flat&logo=testinglibrary&logoColor=white&color=E33332">
   <img src="https://img.shields.io/badge/Salesforce-Apex-informational?style=flat&logo=salesforce&logoColor=white&color=00A1E0">
@@ -48,8 +47,7 @@
 
 ### 🌍 Connect with me:
 <p align="left">
-  <a href="https://twitter.com/[YourTwitter]"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/[YourLinkedIn]"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nillanshu-saini-208b52226"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://dev.to/nillanshu_saini"><img src="https://img.shields.io/badge/-Dev.to-gray?style=flat&logo=dev.to&logoColor=white"></a>
 </p>
 
