@@ -23,9 +23,11 @@
   <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791">
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032">
+  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED">
   <img src="https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=C21325">
   <img src="https://img.shields.io/badge/Testing-React--testing--library-informational?style=flat&logo=testinglibrary&logoColor=white&color=E33332">
   <img src="https://img.shields.io/badge/Salesforce-Apex-informational?style=flat&logo=salesforce&logoColor=white&color=00A1E0">
+  <img src="https://img.shields.io/badge/Salesforce-LWC-informational?style=flat&logo=salesforce&logoColor=white&color=00A1E0">
 </p>
 
 ---
